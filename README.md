@@ -1,7 +1,7 @@
 # 21-Bands-Audio-Spectrum-Analyzer
 Built with Arduino Mega2560 Pro
 The hardware is been tested on a a bread-board and later on a revision 1.0 that was using an LM338 regulator.
-Regulator that was getting too hot and has been replaced by an LX4015 and later by a Mini560 DC-DC 5v buck converter.
+Regulator was getting a little too hot and has been replaced by an LX4015 and later by a Mini560 DC-DC 5v buck converter.
 The 420 LEDs on the panel can be powerd up by the USB supply from the Mega if Brightness is set to 20 in the Sketch Settings.h
 The original code is from Mark Donners from Netherlands who deservers the credits for setting up the nice flow in the code.
 The code and hardware have been modified to allow adding an extra 7-frequency bands in the 40Hz 16Khz spectrum. I was not 
