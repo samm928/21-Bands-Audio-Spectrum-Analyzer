@@ -8,4 +8,4 @@ The code and hardware have been modified to allow adding an extra 7-frequency ba
 able to use the Si5351mcu.h Library created and optimized by Pavel Milanes. It would not allow Clk1 and Clk2 to be used simultaneously, 
 therefore to make the jump form 14 bands to 21 bands I used the EtherKit Si5351 library. Other changes to the code include adding more Color Mode and Patterns includin Gradiant wave patterns from 'kriegsman/ColorWavesWithPalettes.ino' who also deserves thanks. Clk1 and Clk2 frequency was derived from Clk0 as the base (F1 = F0 x 1.3572 and F2 = F0 x 1.3572^2).
 
-Sneak preview : https://www.youtube.com/watch?v=mA5JHc9urMM
+Sneak preview : https://www.youtube.com/watch?v=fixtZVraZdg
